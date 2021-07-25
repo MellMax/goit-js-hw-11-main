@@ -1,4 +1,4 @@
-import '../css/common.css';
+// import '../css/common.css';
 
 const date = document.querySelector("#date-selector")
 date.addEventListener("input", onInput)
